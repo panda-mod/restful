@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/panda-mod/restful/middleware"
+	"github.com/panda-mod/web/middleware"
 )
 
 // Route instance
